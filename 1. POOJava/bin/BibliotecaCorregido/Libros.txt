@@ -1,0 +1,35 @@
+Billy Summers
+Stephen King
+AAA
+A novel
+1
+1
+false
+AAA1
+---
+El Jinete del Dragon
+Cornelia Funke
+AAB
+Siruela
+4
+0
+false
+---
+El Regreso del Joven Principee
+A.G. Roemmers
+AAC
+Planeta
+2
+0
+false
+---
+El Viaje de Teo
+Catherine Clement
+AAD
+Siruela
+64
+2
+false
+AAD1
+AAD2
+---
